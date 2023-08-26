@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chat-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.chat-messages {
+    margin-bottom: 10px;
+}
+
+.message {
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nate {
+    background-color: lightblue;
+    color: white;
+}
+
+.ani {
+    background-color: lightgreen;
+    color: white;
+}
+
+span.sender-name {
+    font-weight: bold;
+    margin-right: 5px;
+}
